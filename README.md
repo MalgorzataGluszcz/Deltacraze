@@ -1,5 +1,5 @@
-# Deltacraze
-3D game to practice C# and Unity skills to make a 3D game and my biggest project.
+# Deltacraze - 3D horror game
+3D horror game to learn and practice C# and Unity and of course to make a 3D horror game to learn how can I make it the best way.
 ## Technologies I used
  - C#
  - Unity 2023.1.19f1
